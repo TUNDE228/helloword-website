@@ -1,0 +1,6 @@
+Name = input('what is your name? ')
+Class = input('what class are you? ')
+Birth_year = input('Birth_year: ')
+Age = input(2021 - int(Birth_year))
+Maiden = input('what is your maiden name')
+print(' i am ' + Name + ' in ' + Class + ' born in year ' +  Birth_year + ' live with' + Age + ' with my mom named ' + Maiden)
